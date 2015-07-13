@@ -1,0 +1,6 @@
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
