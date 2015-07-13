@@ -1,0 +1,9 @@
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\fredjiang\Desktop\fredjiang_git\fredjiang_assignment\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\fredjiang\Desktop\fredjiang_git\fredjiang_assignment\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\fredjiang\Desktop\fredjiang_git\fredjiang_assignment\Assignment6\Assignment6\obj\Debug\Assignment6.pdb

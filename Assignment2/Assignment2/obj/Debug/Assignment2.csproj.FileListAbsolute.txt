@@ -1,0 +1,5 @@
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
