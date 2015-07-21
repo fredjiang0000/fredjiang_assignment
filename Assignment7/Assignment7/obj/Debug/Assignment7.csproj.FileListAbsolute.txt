@@ -1,0 +1,6 @@
+c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+C:\Users\fredjiang\Documents\Visual Studio 2012\Projects\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+C:\Users\fredjiang\Documents\Visual Studio 2012\Projects\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+C:\Users\fredjiang\Documents\Visual Studio 2012\Projects\Assignment7\Assignment7\obj\Debug\Assignment7.csprojResolveAssemblyReference.cache
+C:\Users\fredjiang\Documents\Visual Studio 2012\Projects\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+C:\Users\fredjiang\Documents\Visual Studio 2012\Projects\Assignment7\Assignment7\obj\Debug\Assignment7.pdb

@@ -4,6 +4,3 @@ c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment_1\Assignment
 c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csprojResolveAssemblyReference.cache
 c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment_1\Assignment_1\obj\Debug\Assignment_1.exe
 c:\users\fredjiang\documents\visual studio 2012\Projects\Assignment_1\Assignment_1\obj\Debug\Assignment_1.pdb
-C:\Users\fredjiang\Desktop\fredjiang_git\fredjiang_assignment\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe.config
-C:\Users\fredjiang\Desktop\fredjiang_git\fredjiang_assignment\Assignment_1\Assignment_1\obj\Debug\Assignment_1.exe
-C:\Users\fredjiang\Desktop\fredjiang_git\fredjiang_assignment\Assignment_1\Assignment_1\obj\Debug\Assignment_1.pdb
